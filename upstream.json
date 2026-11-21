@@ -1,0 +1,14 @@
+{
+  "corpus": {
+    "repository": "https://github.com/RhineLab-magellan/VRChat-Agent-Creator-Library",
+    "commit": "71485c2b5fb20f81c6fca6f96673d821c352c646"
+  },
+  "worldSkills": {
+    "repository": "https://github.com/VRChatCN-Kipfel/vrchat-world-codex-skills",
+    "commit": "08ef020dde293882edaf6d94834d2f44839fb307"
+  },
+  "avatarSkill": {
+    "repository": "https://github.com/XiaoboooOvO/VRChatEditorSkill",
+    "commit": "6aa07769b56ccb0a4450ba90bab53aaf3c287869"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "builtAt": "2026-11-21T08:09:23.947Z",
+  "libraryVersion": "5.0.0",
+  "corpusRoot": "VRChat-Agent-Creator-Library/memoryV5.0.0/LLMWikiExample/LLMWikiPage",
+  "upstreamCommit": "71485c2b5fb20f81c6fca6f96673d821c352c646",
+  "pageCount": 415,
+  "keywordRoutes": 20,
+  "apiTableTypes": 80,
+  "apiTableMembers": 1253,
+  "confidenceDistribution": {
+    "high": 204,
+    "medium": 209,
+    "low": 2
+  },
+  "blocks": {
+    "t0-core": {
+      "chars": 1686,
+      "cjk": 537,
+      "ascii": 1149,
+      "tokensLow": 623,
+      "tokensHigh": 920
+    },
+    "t1-world": {
+      "chars": 2141,
+      "cjk": 510,
+      "ascii": 1631,
+      "tokensLow": 727,
+      "tokensHigh": 1054
+    },
+    "t1-avatar": {
+      "chars": 2376,
+      "cjk": 678,
+      "ascii": 1698,
+      "tokensLow": 848,
+      "tokensHigh": 1244
+    },
+    "t1-shader": {
+      "chars": 1131,
+      "cjk": 199,
+      "ascii": 932,
+      "tokensLow": 357,
+      "tokensHigh": 510
+    },
+    "domain-map": {
+      "chars": 1836,
+      "cjk": 468,
+      "ascii": 1368,
+      "tokensLow": 635,
+      "tokensHigh": 924
+    },
+    "always-load": {
+      "chars": 7505,
+      "cjk": 1855,
+      "ascii": 5650,
+      "tokensLow": 2572,
+      "tokensHigh": 3738
+    }
+  },
+  "workflow": {
+    "chars": 24825,
+    "cjk": 11602,
+    "ascii": 13222,
+    "tokensLow": 10557,
+    "tokensHigh": 16009
+  }
+}
