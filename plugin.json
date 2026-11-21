@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "codex-vrchat",
+  "version": "1.0.0",
+  "description": "VRChat 创作者工具箱。提供离线知识库、Udon API 查表、源码检查、Unity 状态和 World/Avatar 工程骨架。",
+  "author": {
+    "name": "zxcAsD01-d",
+    "url": "https://github.com/zxcAsD01-d"
+  },
+  "homepage": "https://github.com/zxcAsD01-d/codex-vrchat",
+  "repository": "https://github.com/zxcAsD01-d/codex-vrchat",
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "unity",
+    "udon",
+    "avatar",
+    "world",
+    "vpm"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "VRChat Creator",
+        "shortDescription": "VRChat 知识库和 Unity 创作工具",
+        "category": "Development",
+        "defaultPrompt": [
+          "列出 VRChat 知识库版本和各领域覆盖范围",
+          "查询 Udon 同步变量和所有权的规则",
+          "用 VRChat 创作模式规划一个 World 工程"
+        ]
+      }
+    }
+  }
+}

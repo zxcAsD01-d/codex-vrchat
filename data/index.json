@@ -1,0 +1,6408 @@
+[
+  {
+    "path": "_always-load.md",
+    "title": "VRChat 全领域核心约束速查",
+    "type": "navigation",
+    "category": "misc",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "reference",
+      "core-constraints"
+    ],
+    "size": 14645
+  },
+  {
+    "path": "comparisons/build-time-vs-runtime.md",
+    "title": "Build-Time vs Runtime Separation (构建时与运行时分离)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "event"
+    ],
+    "size": 9746
+  },
+  {
+    "path": "comparisons/filamented-comparison.md",
+    "title": "Filamented 与同类项目对比",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "filamented",
+      "bakery",
+      "light",
+      "occlusion"
+    ],
+    "size": 4194
+  },
+  {
+    "path": "comparisons/index.md",
+    "title": "Comparisons — 对比分析索引",
+    "type": "entity",
+    "category": "misc",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "comparison",
+      "navigation"
+    ],
+    "size": 940
+  },
+  {
+    "path": "comparisons/orl-comparison.md",
+    "title": "ORL Shaders 对比分析",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "orl",
+      "liltoon",
+      "scss",
+      "audio",
+      "light",
+      "occlusion"
+    ],
+    "size": 5323
+  },
+  {
+    "path": "comparisons/poiyomi-pro-vs-toon.md",
+    "title": "Poiyomi Shaders - Pro vs Toon 功能边界",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "pro",
+      "toon",
+      "patreon",
+      "feature-comparison"
+    ],
+    "size": 6799
+  },
+  {
+    "path": "comparisons/poiyomi-vs-liltoon.md",
+    "title": "Poiyomi vs lilToon - 全面对比",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "liltoon",
+      "comparison",
+      "selection-guide"
+    ],
+    "size": 7967
+  },
+  {
+    "path": "concepts/hybrid/alcom.md",
+    "title": "ALCOM (Alternative Creator Companion)",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "alcom",
+      "vrc-get",
+      "toolchain",
+      "vpm",
+      "open-source"
+    ],
+    "size": 3998
+  },
+  {
+    "path": "concepts/hybrid/audio-link.md",
+    "title": "AudioLink 音频同步系统 API 与使用指南",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "shader",
+      "audio",
+      "avatar"
+    ],
+    "size": 6809
+  },
+  {
+    "path": "concepts/hybrid/avatar-camera-plugins.md",
+    "title": "Avatar 端摄影工具索引(Avatar Camera Plugins)",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "avatar",
+      "camera",
+      "photography",
+      "modular-avatar",
+      "fisheye",
+      "recommended-tools"
+    ],
+    "size": 18614
+  },
+  {
+    "path": "concepts/hybrid/avatar-world-boundaries.md",
+    "title": "Avatar↔World Boundaries — 架构边界总纲",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "avatar",
+      "world",
+      "udon",
+      "tracking",
+      "contact",
+      "networking"
+    ],
+    "size": 7115
+  },
+  {
+    "path": "concepts/hybrid/avatar-world-contact-bridge.md",
+    "title": "Avatar↔World Contact Bridge — Contact / Dynamics 桥接边界",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "avatar",
+      "world",
+      "contact",
+      "dynamics",
+      "physbone",
+      "udon"
+    ],
+    "size": 5552
+  },
+  {
+    "path": "concepts/hybrid/avatar-world-sync-model.md",
+    "title": "Avatar↔World Sync Model — 触发、权威与可恢复状态",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "world",
+      "avatar",
+      "networking",
+      "sync",
+      "owner",
+      "late-joiner"
+    ],
+    "size": 6142
+  },
+  {
+    "path": "concepts/hybrid/index.md",
+    "title": "Hybrid Domain — Knowledge Base",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3664
+  },
+  {
+    "path": "concepts/hybrid/osc-protocol.md",
+    "title": "VRChat OSC 协议完整数据库",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "osc",
+      "avatar"
+    ],
+    "size": 23808
+  },
+  {
+    "path": "concepts/hybrid/player-observation-boundaries.md",
+    "title": "Player Observation Boundaries — 玩家/Avatar 外显观察边界",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "world",
+      "avatar",
+      "player",
+      "tracking",
+      "bone",
+      "scaling",
+      "eye-height"
+    ],
+    "size": 7560
+  },
+  {
+    "path": "concepts/hybrid/player-world-trigger-bridge.md",
+    "title": "Player↔World Trigger Bridge — 区域/碰撞/粒子观测桥",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "player",
+      "world",
+      "trigger",
+      "collision",
+      "particle",
+      "udon"
+    ],
+    "size": 5469
+  },
+  {
+    "path": "concepts/hybrid/udon-world-plugins.md",
+    "title": "推荐 Udon 世界插件(Recommended Udon World Plugins)",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "json",
+      "ownership"
+    ],
+    "size": 8783
+  },
+  {
+    "path": "concepts/hybrid/vcc.md",
+    "title": "VRChat Creator Companion (VCC)",
+    "type": "concept",
+    "category": "hybrid",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "hybrid",
+      "vcc",
+      "vpm",
+      "toolchain",
+      "project-management"
+    ],
+    "size": 8974
+  },
+  {
+    "path": "concepts/misc/accessibility-guide.md",
+    "title": "VRChat 无障碍操作设计指南",
+    "type": "concept",
+    "category": "misc",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 2221
+  },
+  {
+    "path": "concepts/misc/index.md",
+    "title": "Misc Domain — 跨领域杂项知识",
+    "type": "concept",
+    "category": "misc",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 1892
+  },
+  {
+    "path": "concepts/misc/postprocessing-principles.md",
+    "title": "后处理原理 — 现实参照",
+    "type": "concept",
+    "category": "misc",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3529
+  },
+  {
+    "path": "concepts/misc/postprocessing-usage.md",
+    "title": "后处理使用方式 — Unity 参数与最佳实践",
+    "type": "concept",
+    "category": "misc",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3163
+  },
+  {
+    "path": "concepts/patterns/advanced-sync-patterns.md",
+    "title": "Pattern: Advanced Sync Patterns",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "sync",
+      "serialization",
+      "event"
+    ],
+    "size": 2903
+  },
+  {
+    "path": "concepts/patterns/bit-packed-flags.md",
+    "title": "Bit-Packed Flags",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "serialization"
+    ],
+    "size": 2794
+  },
+  {
+    "path": "concepts/patterns/channel-routing.md",
+    "title": "Channel-Based Pub/Sub Routing (频道路由)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "audio"
+    ],
+    "size": 7272
+  },
+  {
+    "path": "concepts/patterns/code-generation-type-erasure.md",
+    "title": "Code Generation with Type Erasure (代码生成 + 类型擦除)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "audio",
+      "event"
+    ],
+    "size": 7248
+  },
+  {
+    "path": "concepts/patterns/editor-preview-component.md",
+    "title": "Pattern: Editor Preview Component（编辑器预览组件）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "mirror",
+      "udonsharp"
+    ],
+    "size": 7985
+  },
+  {
+    "path": "concepts/patterns/event-driven-state-machine.md",
+    "title": "Pattern: Event-Driven State Machine",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "serialization"
+    ],
+    "size": 3823
+  },
+  {
+    "path": "concepts/patterns/exclusive-control-selector.md",
+    "title": "Pattern: Exclusive Control Selector（互斥选择器）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "serialization"
+    ],
+    "size": 6387
+  },
+  {
+    "path": "concepts/patterns/fade-then-snap.md",
+    "title": "Pattern: Fade-Then-Snap（淡入淡出移动）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "pickup",
+      "event"
+    ],
+    "size": 6476
+  },
+  {
+    "path": "concepts/patterns/hash-based-dispatch.md",
+    "title": "Hash-Based Method Dispatch (哈希方法分派)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "audio",
+      "event",
+      "udonsharp"
+    ],
+    "size": 5389
+  },
+  {
+    "path": "concepts/patterns/hybrid-subscription-modes.md",
+    "title": "Hybrid Static+Dynamic Subscription (静态+动态双订阅)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "event"
+    ],
+    "size": 10386
+  },
+  {
+    "path": "concepts/patterns/iid-object-identity.md",
+    "title": "IID Object Identity (整数身份映射)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "event"
+    ],
+    "size": 5784
+  },
+  {
+    "path": "concepts/patterns/index.md",
+    "title": "Patterns — 设计模式选择决策树",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 15011
+  },
+  {
+    "path": "concepts/patterns/inherited-subscriber.md",
+    "title": "Inherited Subscriber (基类订阅者自动继承)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "event",
+      "udonsharp"
+    ],
+    "size": 7093
+  },
+  {
+    "path": "concepts/patterns/late-joiner-state-restore.md",
+    "title": "Late Joiner State Restore",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "performance"
+    ],
+    "size": 3516
+  },
+  {
+    "path": "concepts/patterns/manual-sync-state.md",
+    "title": "Pattern: Manual Sync State",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "performance"
+    ],
+    "size": 4587
+  },
+  {
+    "path": "concepts/patterns/master-follower-syncer.md",
+    "title": "Pattern: Master-Follower Syncer（主从同步器）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "serialization"
+    ],
+    "size": 6137
+  },
+  {
+    "path": "concepts/patterns/material-propertyblock-safe-update.md",
+    "title": "Pattern: MaterialPropertyBlock Safe Update（共享材质安全更新）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "udonsharp"
+    ],
+    "size": 6707
+  },
+  {
+    "path": "concepts/patterns/owner-authoritative-interaction.md",
+    "title": "Owner Authoritative Interaction",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "constraint",
+      "networking",
+      "sync",
+      "performance"
+    ],
+    "size": 4778
+  },
+  {
+    "path": "concepts/patterns/slot-parameter-passing.md",
+    "title": "Slot-Based Parameter Passing (槽位参数传递)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "animator",
+      "constraint",
+      "audio",
+      "pickup"
+    ],
+    "size": 5195
+  },
+  {
+    "path": "concepts/patterns/soft-detent-interpolation.md",
+    "title": "Pattern: Soft Detent Interpolation（软吸附插值）",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "udonsharp"
+    ],
+    "size": 7166
+  },
+  {
+    "path": "concepts/patterns/unorthodox-patterns.md",
+    "title": "Unorthodox UdonSharp Patterns (邪修技法)",
+    "type": "concept",
+    "category": "patterns",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "patterns",
+      "patterns",
+      "event",
+      "udonsharp"
+    ],
+    "size": 8813
+  },
+  {
+    "path": "concepts/rules/index.md",
+    "title": "Rules — 约束与强制要求速查",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3874
+  },
+  {
+    "path": "concepts/rules/multi-vm-rules.md",
+    "title": "Rule Set: Multi-VM Collaboration Rules",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "rules",
+      "udonsharp"
+    ],
+    "size": 3653
+  },
+  {
+    "path": "concepts/rules/networking-rules.md",
+    "title": "Rule Set: Networking Rules",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "rules",
+      "networking",
+      "sync",
+      "serialization",
+      "ownership"
+    ],
+    "size": 8379
+  },
+  {
+    "path": "concepts/rules/performance-rules.md",
+    "title": "Rule Set: Performance Rules",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "rules",
+      "animator",
+      "performance",
+      "pickup",
+      "serialization"
+    ],
+    "size": 5215
+  },
+  {
+    "path": "concepts/rules/quest-constraints.md",
+    "title": "Quest 兼容性约束清单",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "quest",
+      "android",
+      "performance",
+      "platform-constraints",
+      "cross-platform"
+    ],
+    "size": 10541
+  },
+  {
+    "path": "concepts/rules/runtime-texture-compression.md",
+    "title": "VRChat Runtime Texture Compression",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "platform",
+      "optimization",
+      "android",
+      "vrchat",
+      "storage"
+    ],
+    "size": 1667
+  },
+  {
+    "path": "concepts/rules/udon-vm-architecture.md",
+    "title": "Udon VM Architecture Reference",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "udonsharp",
+      "light"
+    ],
+    "size": 9185
+  },
+  {
+    "path": "concepts/rules/udonsharp-deep-pitfalls.md",
+    "title": "Rule Set: UdonSharp Deep Pitfalls",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "udonsharp",
+      "avatar"
+    ],
+    "size": 7884
+  },
+  {
+    "path": "concepts/rules/udonsharp-language-limits.md",
+    "title": "Rule Set: UdonSharp Language Limits",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "rules",
+      "event",
+      "udonsharp",
+      "reflection"
+    ],
+    "size": 9183
+  },
+  {
+    "path": "concepts/rules/vrchat-api-exposure.md",
+    "title": "Rule Set: VRChat API Exposure",
+    "type": "concept",
+    "category": "rules",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "rules",
+      "rules",
+      "animator",
+      "networking",
+      "audio",
+      "pickup"
+    ],
+    "size": 2536
+  },
+  {
+    "path": "entities/api/animator.md",
+    "title": "API: Animator",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "animator",
+      "udonsharp"
+    ],
+    "size": 4707
+  },
+  {
+    "path": "entities/api/api-checker.md",
+    "title": "Udon API 检查器",
+    "type": "entity",
+    "category": "api",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "api",
+      "tool",
+      "json",
+      "vrcjson",
+      "serialization",
+      "event"
+    ],
+    "size": 4286
+  },
+  {
+    "path": "entities/api/audio.md",
+    "title": "API: AudioSource",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "audio",
+      "event"
+    ],
+    "size": 1688
+  },
+  {
+    "path": "entities/api/data-containers.md",
+    "title": "API: Data Containers",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "data-containers",
+      "data-token",
+      "data-list",
+      "data-dictionary",
+      "vrcjson",
+      "serialization"
+    ],
+    "size": 8474
+  },
+  {
+    "path": "entities/api/dynamics.md",
+    "title": "API: VRChat Dynamics for Worlds (SDK 3.10.0+)",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "physbone",
+      "contact",
+      "constraint",
+      "event"
+    ],
+    "size": 3240
+  },
+  {
+    "path": "entities/api/events-reference.md",
+    "title": "API: Complete Udon Event Reference",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "networking",
+      "sync",
+      "serialization",
+      "ownership",
+      "event"
+    ],
+    "size": 7411
+  },
+  {
+    "path": "entities/api/exposed-types.md",
+    "title": "已暴露类型详细清单 - VRChat SDK 3.10.3",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "reference",
+      "playable-layer"
+    ],
+    "size": 75463
+  },
+  {
+    "path": "entities/api/index.md",
+    "title": "API Reference — 总览",
+    "type": "entity",
+    "category": "api",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 5886
+  },
+  {
+    "path": "entities/api/networking.md",
+    "title": "API: Networking",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "networking",
+      "sync",
+      "serialization",
+      "ownership"
+    ],
+    "size": 6518
+  },
+  {
+    "path": "entities/api/not-exposed.md",
+    "title": "NOT EXPOSED API 黑名单 - VRChat SDK 3.10.3",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "reference",
+      "event",
+      "udonsharp",
+      "reflection"
+    ],
+    "size": 5694
+  },
+  {
+    "path": "entities/api/official-doc-clarifications.md",
+    "title": "Official Documentation Clarifications",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "reference",
+      "ownership",
+      "udonsharp"
+    ],
+    "size": 4353
+  },
+  {
+    "path": "entities/api/persistence.md",
+    "title": "API: Persistence (PlayerData / PlayerObject)",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "persistence",
+      "event"
+    ],
+    "size": 5905
+  },
+  {
+    "path": "entities/api/pickups.md",
+    "title": "API: Pickups (VRCObjectPickup)",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "sync",
+      "pickup",
+      "ownership"
+    ],
+    "size": 4412
+  },
+  {
+    "path": "entities/api/player-api.md",
+    "title": "Player API",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "ownership",
+      "udonsharp"
+    ],
+    "size": 3352
+  },
+  {
+    "path": "entities/api/udon-type-exposure.md",
+    "title": "Udon Type Exposure Tree - VRChat SDK 3.10.3",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "index",
+      "event"
+    ],
+    "size": 6658
+  },
+  {
+    "path": "entities/api/udonsharp-runtime.md",
+    "title": "UdonSharpBehaviour Runtime System",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "event",
+      "udonsharp"
+    ],
+    "size": 5333
+  },
+  {
+    "path": "entities/api/ui.md",
+    "title": "UI (VRChat World UI)",
+    "type": "entity",
+    "category": "api",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "api",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 1480
+  },
+  {
+    "path": "entities/api/vrc-billboard.md",
+    "title": "VRCBillboard — 原生公告板（Billboard）API 类",
+    "type": "entity",
+    "category": "api",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "api",
+      "udonsharp",
+      "performance",
+      "world",
+      "optimization"
+    ],
+    "size": 3686
+  },
+  {
+    "path": "entities/api/vrchat-advanced-apis.md",
+    "title": "VRChat Advanced APIs",
+    "type": "entity",
+    "category": "api",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "api",
+      "shader",
+      "light",
+      "avatar"
+    ],
+    "size": 4232
+  },
+  {
+    "path": "entities/avatar/accessories.md",
+    "title": "VRChat Avatar Accessories 系统 (2026.2.1+)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "accessories",
+      "vrc-native",
+      "googly-eyes",
+      "2026"
+    ],
+    "size": 4785
+  },
+  {
+    "path": "entities/avatar/animator-system.md",
+    "title": "Avatar Animator System — Complete Guide",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "rig-requirements",
+      "armature",
+      "write-defaults",
+      "direct-blend-tree",
+      "vrc-school"
+    ],
+    "size": 29945
+  },
+  {
+    "path": "entities/avatar/avatar-30-emulator.md",
+    "title": "VRChat Avatar 3.0 Emulator (Av3Emulator) — Unity 测试工具",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "testing",
+      "debugging",
+      "emulator",
+      "expression-menu",
+      "animator"
+    ],
+    "size": 6130
+  },
+  {
+    "path": "entities/avatar/avatar-30-toggle-tools.md",
+    "title": "Avatar 3.0 Toggle 创建工具（非 MA 路径）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "toggle",
+      "expression-menu",
+      "animator",
+      "tools",
+      "third-party",
+      "non-ma-path"
+    ],
+    "size": 7753
+  },
+  {
+    "path": "entities/avatar/avatar-audio-optimization.md",
+    "title": "VRChat Avatar 音频优化",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "audio",
+      "audioclip",
+      "compression",
+      "load-type",
+      "sample-rate",
+      "optimization"
+    ],
+    "size": 10973
+  },
+  {
+    "path": "entities/avatar/avatar-audit-methodology.md",
+    "title": "Avatar 检查 / 审计方法论（Evidence & Authorization）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "audit",
+      "evidence",
+      "authorization",
+      "toolchain",
+      "unity-mcp"
+    ],
+    "size": 11486
+  },
+  {
+    "path": "entities/avatar/avatar-dynamic-bone-limits.md",
+    "title": "Avatar Dynamic Bone Limits — 用户端 Dynamic Bone 限制系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "performance",
+      "physbone",
+      "config"
+    ],
+    "size": 6832
+  },
+  {
+    "path": "entities/avatar/avatar-fallback-system.md",
+    "title": "Avatar Fallback System — Avatar 降级显示系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "performance",
+      "platform"
+    ],
+    "size": 8144
+  },
+  {
+    "path": "entities/avatar/avatar-interaction-permissions.md",
+    "title": "Avatar Interaction Permissions — Avatar 交互权限设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "ux",
+      "safety",
+      "permission"
+    ],
+    "size": 4171
+  },
+  {
+    "path": "entities/avatar/avatar-modding-guide.md",
+    "title": "VRChat Avatar 改模基础知识",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "modular-avatar",
+      "unity-basics",
+      "liltoon",
+      "sdk-panel",
+      "model-import"
+    ],
+    "size": 15099
+  },
+  {
+    "path": "entities/avatar/avatar-optimization-stack.md",
+    "title": "Avatar 优化工具链组合指南（7 工具职责边界与共存风险）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "performance",
+      "optimization",
+      "ndmf",
+      "unity"
+    ],
+    "size": 10609
+  },
+  {
+    "path": "entities/avatar/avatar-optimizer.md",
+    "title": "AAO: Avatar Optimizer 完整知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "json"
+    ],
+    "size": 21467
+  },
+  {
+    "path": "entities/avatar/avatar-parameter-staged-sync.md",
+    "title": "Avatar 参数分步同步架构",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "playable-layer",
+      "sync",
+      "parameter-driver",
+      "puppet",
+      "cross-platform",
+      "vrcd-21-supplement"
+    ],
+    "size": 10579
+  },
+  {
+    "path": "entities/avatar/avatar-particle-system-creation.md",
+    "title": "Avatar 粒子系统创建工作流",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "particle-system",
+      "vrc-particle-limits",
+      "workflow",
+      "shader"
+    ],
+    "size": 7460
+  },
+  {
+    "path": "entities/avatar/avatar-particle-system-limits.md",
+    "title": "Avatar Particle System Limits — 用户端粒子系统限制",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "performance",
+      "particles",
+      "config",
+      "quest"
+    ],
+    "size": 5495
+  },
+  {
+    "path": "entities/avatar/avatar-size-limits.md",
+    "title": "VRChat Avatar 大小限制与定义",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "size-limit",
+      "vram",
+      "compliance",
+      "regulation",
+      "compression",
+      "optimization"
+    ],
+    "size": 7474
+  },
+  {
+    "path": "entities/avatar/avatar-upload-getting-started.md",
+    "title": "Avatar 上传入门指南(2026)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "getting-started",
+      "upload",
+      "rig",
+      "shader",
+      "thumbnail"
+    ],
+    "size": 10640
+  },
+  {
+    "path": "entities/avatar/blend-shape-troubleshooting.md",
+    "title": "Blend Shape 系统性排障 4 步法",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "blend-shape",
+      "modular-avatar",
+      "troubleshooting",
+      "animator"
+    ],
+    "size": 7685
+  },
+  {
+    "path": "entities/avatar/blender-shape-keys.md",
+    "title": "Blender 形态键 (Shape Keys) → Unity BlendShapes 工作流",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "blender",
+      "shapes-keys",
+      "blendshapes",
+      "workflow",
+      "fbx",
+      "modding"
+    ],
+    "size": 8085
+  },
+  {
+    "path": "entities/avatar/bone-binding-workflow.md",
+    "title": "Avatar 骨绑定工作流决策树",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "modular-avatar",
+      "bone-binding",
+      "workflow",
+      "decision-tree"
+    ],
+    "size": 6773
+  },
+  {
+    "path": "entities/avatar/camera-tools-virtuallens2.md",
+    "title": "VirtualLens2 — 子工具文档",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "camera",
+      "virtual-lens2",
+      "non-destructive"
+    ],
+    "size": 2152
+  },
+  {
+    "path": "entities/avatar/camera-tools-vrclens.md",
+    "title": "VRCLens — 子工具文档",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "camera",
+      "vrclens",
+      "invasive"
+    ],
+    "size": 2166
+  },
+  {
+    "path": "entities/avatar/camera-tools.md",
+    "title": "玩家本地相机工具 - VirtualLens2 + VRCLens",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "virtual-lens",
+      "vrclens",
+      "virtual-photography",
+      "hybrid-tool",
+      "non-destructive"
+    ],
+    "size": 13105
+  },
+  {
+    "path": "entities/avatar/commission-pricing.md",
+    "title": "VRC 委托模型定价参考（定性分级）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "low",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "commission",
+      "pricing",
+      "china"
+    ],
+    "size": 1851
+  },
+  {
+    "path": "entities/avatar/contact.md",
+    "title": "Avatar Contact System (VRC Contact, 2026.2.1+)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "contact",
+      "vrc-contact",
+      "dynamics",
+      "sdk-3-10"
+    ],
+    "size": 8825
+  },
+  {
+    "path": "entities/avatar/dressing-tools.md",
+    "title": "DressingTools (DT) — 非破坏性 cabinet 衣橱/装配系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "wardrobe",
+      "non-destructive",
+      "animator",
+      "ndmf",
+      "physbone"
+    ],
+    "size": 6254
+  },
+  {
+    "path": "entities/avatar/expression-menu.md",
+    "title": "Action / Expression / Puppet Menu — Avatar 菜单三层结构",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "action-menu",
+      "expression-menu",
+      "puppet-menu",
+      "widget",
+      "ui"
+    ],
+    "size": 14122
+  },
+  {
+    "path": "entities/avatar/faceemo.md",
+    "title": "FaceEmo — VRChat 面部表情创建与配置工具",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "facial-expression",
+      "gesture",
+      "expression-menu",
+      "modular-avatar",
+      "non-destructive"
+    ],
+    "size": 7352
+  },
+  {
+    "path": "entities/avatar/free-avatar-resources.md",
+    "title": "免费 Avatar 资源索引(2026)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "resources",
+      "free",
+      "cc0",
+      "scss",
+      "100avatars"
+    ],
+    "size": 3599
+  },
+  {
+    "path": "entities/avatar/full-body-tracking.md",
+    "title": "Full-Body Tracking — 全身追踪完整指南",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "fbt",
+      "tracking",
+      "hybrid",
+      "rigging",
+      "experimental"
+    ],
+    "size": 6501
+  },
+  {
+    "path": "entities/avatar/gesture-manager.md",
+    "title": "Gesture Manager — VRChat 化身动画预览与调试工具",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "gesture",
+      "preview",
+      "debug",
+      "expression-menu",
+      "animator",
+      "osc"
+    ],
+    "size": 5651
+  },
+  {
+    "path": "entities/avatar/ik-2.0.md",
+    "title": "IK 2.0 Features and Options — IK 2.0 完整特性",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "ik",
+      "tracking",
+      "fbt",
+      "launch-options"
+    ],
+    "size": 5046
+  },
+  {
+    "path": "entities/avatar/impostor-fallback.md",
+    "title": "Avatar Impostor & Fallback — 替代 Avatar 机制",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "impostor",
+      "fallback",
+      "fallback-avatar",
+      "performance",
+      "api"
+    ],
+    "size": 8012
+  },
+  {
+    "path": "entities/avatar/index.md",
+    "title": "Avatar Domain — Knowledge Base",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 16848
+  },
+  {
+    "path": "entities/avatar/integral-camera-params.md",
+    "title": "Integral 相机参数详解（Aperture/Zoom/Focus/Exposure/SS）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "integral",
+      "camera-params",
+      "aperture",
+      "focus",
+      "exposure"
+    ],
+    "size": 5607
+  },
+  {
+    "path": "entities/avatar/lac-avatar-compressor.md",
+    "title": "Avatar Compressor (LAC)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "physbone",
+      "optimization"
+    ],
+    "size": 8236
+  },
+  {
+    "path": "entities/avatar/legal-and-licensing.md",
+    "title": "VRC 创作者法律合规总览",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "legal",
+      "vn3",
+      "licensing",
+      "china"
+    ],
+    "size": 1836
+  },
+  {
+    "path": "entities/avatar/lilycal-inventory.md",
+    "title": "lilycalInventory (lilycal 衣装切换/衣柜)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "wardrobe",
+      "non-destructive",
+      "animator",
+      "expression-menu",
+      "ndmf"
+    ],
+    "size": 6601
+  },
+  {
+    "path": "entities/avatar/ma-component-cards.md",
+    "title": "Modular Avatar 组件教学卡（27 个完整版）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "physbone",
+      "modular-avatar"
+    ],
+    "size": 28854
+  },
+  {
+    "path": "entities/avatar/ma2bt.md",
+    "title": "MA2BT (Modular Avatar to BlendTree)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "physbone",
+      "modular-avatar"
+    ],
+    "size": 18567
+  },
+  {
+    "path": "entities/avatar/meshia-mesh-simplification.md",
+    "title": "Meshia Mesh Simplification",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "physbone",
+      "performance"
+    ],
+    "size": 16091
+  },
+  {
+    "path": "entities/avatar/modular-avatar-tutorials-detailed.md",
+    "title": "Modular Avatar 教程深度精读（玩家视角完整版）",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "modular-avatar"
+    ],
+    "size": 18016
+  },
+  {
+    "path": "entities/avatar/modular-avatar.md",
+    "title": "Modular Avatar (MA) 完整知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "physbone",
+      "constraint",
+      "sync",
+      "modular-avatar"
+    ],
+    "size": 82861
+  },
+  {
+    "path": "entities/avatar/ndmf-tools.md",
+    "title": "NDMF 工具生态体系",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "physbone",
+      "json",
+      "modular-avatar",
+      "vrcfury",
+      "decision-tree",
+      "lilavatarutils"
+    ],
+    "size": 11966
+  },
+  {
+    "path": "entities/avatar/optimization-guide.md",
+    "title": "Avatar 最佳化实操指南",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "physbone"
+    ],
+    "size": 23910
+  },
+  {
+    "path": "entities/avatar/performance-benchmarks.md",
+    "title": "Unity/VRChat 性能基准测试",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "performance"
+    ],
+    "size": 4513
+  },
+  {
+    "path": "entities/avatar/performance-rank.md",
+    "title": "Avatar Performance Ranking System",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "physbone",
+      "performance",
+      "light"
+    ],
+    "size": 8489
+  },
+  {
+    "path": "entities/avatar/physbones.md",
+    "title": "VRCPhysBone 组件参考",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "world",
+      "physbone",
+      "dynamic-bone",
+      "common-components"
+    ],
+    "size": 8107
+  },
+  {
+    "path": "entities/avatar/playable-layers.md",
+    "title": "VRChat Playable Layers 知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "playable-layer",
+      "vrc-school"
+    ],
+    "size": 13140
+  },
+  {
+    "path": "entities/avatar/public-avatar-cloning.md",
+    "title": "Public Avatar Cloning — 公共 Avatar 克隆",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "ux",
+      "public"
+    ],
+    "size": 2380
+  },
+  {
+    "path": "entities/avatar/safety-system.md",
+    "title": "VRChat Safety System — 玩家安全系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "safety",
+      "shield-level",
+      "shader-blocking",
+      "moderation",
+      "content-control"
+    ],
+    "size": 7927
+  },
+  {
+    "path": "entities/avatar/self-mmd.md",
+    "title": "自身跳 MMD 舞蹈(Self MMD)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "mmd",
+      "dance",
+      "self-mmd",
+      "action-layer",
+      "fx-layer",
+      "music"
+    ],
+    "size": 6764
+  },
+  {
+    "path": "entities/avatar/shader/filamented/index.md",
+    "title": "Filamented Shader 知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 1497
+  },
+  {
+    "path": "entities/avatar/shader/filamented/overview.md",
+    "title": "Filamented Overview - 项目概览",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "filamented",
+      "json"
+    ],
+    "size": 2580
+  },
+  {
+    "path": "entities/avatar/shader/filamented/pbr-improvements.md",
+    "title": "Filamented PBR 改进详解",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "filamented",
+      "light",
+      "occlusion"
+    ],
+    "size": 2698
+  },
+  {
+    "path": "entities/avatar/shader/index.md",
+    "title": "Avatar Shader 知识库索引",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "liltoon",
+      "scss",
+      "index"
+    ],
+    "size": 20011
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/advanced-settings.md",
+    "title": "lilToon 扩展功能设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 3623
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/audiolink.md",
+    "title": "lilToon AudioLink 集成",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon",
+      "audio"
+    ],
+    "size": 1999
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/basic-settings.md",
+    "title": "lilToon 基本设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 2352
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/color-settings.md",
+    "title": "lilToon 颜色与阴影设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 5344
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/dissolve.md",
+    "title": "lilToon Dissolve 效果",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 1749
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/fur.md",
+    "title": "lilToon 毛发设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 2719
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/index.md",
+    "title": "lilToon 知识库索引",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 2469
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/installation.md",
+    "title": "lilToon 安装与配置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon",
+      "json"
+    ],
+    "size": 3142
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/optimization.md",
+    "title": "lilToon 优化指南",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 3238
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/outline.md",
+    "title": "lilToon 轮廓线设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon",
+      "reflection"
+    ],
+    "size": 1821
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/overview.md",
+    "title": "lilToon — Avatar Toon Shader 推荐指南",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 3576
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/reflection-settings.md",
+    "title": "lilToon 反射与光泽设置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon",
+      "audio",
+      "light"
+    ],
+    "size": 3631
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/render-modes.md",
+    "title": "lilToon 渲染模式详解",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 3065
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/stencil.md",
+    "title": "lilToon Stencil 设置详解",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 4107
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/troubleshooting.md",
+    "title": "lilToon 故障排除",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 2740
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/variations.md",
+    "title": "lilToon 着色器变体",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 2415
+  },
+  {
+    "path": "entities/avatar/shader/liltoon/vrchat-specific.md",
+    "title": "lilToon VRChat 特定配置",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon"
+    ],
+    "size": 2306
+  },
+  {
+    "path": "entities/avatar/shader/orl/configurable.md",
+    "title": "Configurable Shader 系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "orl"
+    ],
+    "size": 3220
+  },
+  {
+    "path": "entities/avatar/shader/orl/index.md",
+    "title": "ORL Shaders - 索引",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 1661
+  },
+  {
+    "path": "entities/avatar/shader/orl/overview.md",
+    "title": "ORL Shaders 概览",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "orl",
+      "liltoon",
+      "json",
+      "light"
+    ],
+    "size": 3585
+  },
+  {
+    "path": "entities/avatar/shader/orl/shader-list.md",
+    "title": "ORL Shaders 详细列表",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "orl",
+      "occlusion"
+    ],
+    "size": 6106
+  },
+  {
+    "path": "entities/avatar/shader/other-shaders.md",
+    "title": "其他 Shader 知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "liltoon",
+      "bakery",
+      "light"
+    ],
+    "size": 3025
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/audiolink-integration.md",
+    "title": "Poiyomi Shaders - AudioLink 集成",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "audiolink",
+      "audio-reactive",
+      "world-integration"
+    ],
+    "size": 6716
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/index.md",
+    "title": "Poiyomi Shaders 知识库索引",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "index",
+      "navigation",
+      "knowledge-base"
+    ],
+    "size": 7341
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/installation.md",
+    "title": "Poiyomi Shaders - 安装与版本",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "installation",
+      "vpm",
+      "patreon"
+    ],
+    "size": 6340
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/modular-system.md",
+    "title": "Poiyomi Shaders - Modular Shader System (Pro)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "modular-shader",
+      "module-definition",
+      "template-collection",
+      "pro",
+      "shader-development"
+    ],
+    "size": 6874
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/quest-optimization.md",
+    "title": "Poiyomi Shaders - Quest 优化策略",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "quest",
+      "optimization",
+      "mobile",
+      "micro"
+    ],
+    "size": 6851
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/shader-locking-mechanism.md",
+    "title": "Poiyomi Shader Locking 机制与动画化",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "locking",
+      "animation",
+      "vrcfury-integration",
+      "hue-shift",
+      "material-property"
+    ],
+    "size": 12717
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/shader-variants.md",
+    "title": "Poiyomi Shaders - 5 个变体详解",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "variants",
+      "micro",
+      "quest"
+    ],
+    "size": 5882
+  },
+  {
+    "path": "entities/avatar/shader/poiyomi/shading-styles.md",
+    "title": "Poiyomi Shaders - 9 种 Lighting Type (Shading Styles)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "poiyomi",
+      "shading",
+      "lighting",
+      "texture-ramp"
+    ],
+    "size": 5969
+  },
+  {
+    "path": "entities/avatar/shader/scss.md",
+    "title": "SCSS (Silent's Cel Shading Shader) 分析报告",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "shader",
+      "scss",
+      "light"
+    ],
+    "size": 6628
+  },
+  {
+    "path": "entities/avatar/shader/unlitwf/index.md",
+    "title": "UnlitWF Shader Suite 知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 10660
+  },
+  {
+    "path": "entities/avatar/skeletal-input.md",
+    "title": "Skeletal Input & Finger Tracking — Avatar 手指骨骼追踪",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "skeletal-input",
+      "finger-tracking",
+      "muscle-definition",
+      "legacy-fingers",
+      "steamvr"
+    ],
+    "size": 8007
+  },
+  {
+    "path": "entities/avatar/standard-hand-poses.md",
+    "title": "VRChat Standard Hand Poses — 7 种标准手姿定义",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "hand-pose",
+      "gesture",
+      "valve-index",
+      "oculus-touch",
+      "controller-bindings"
+    ],
+    "size": 8381
+  },
+  {
+    "path": "entities/avatar/teaching-methodology.md",
+    "title": "Avatar 改模教学法 & 问题诊断框架",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "modular-avatar",
+      "udonsharp",
+      "teaching",
+      "vrcd-21-supplement",
+      "input-output-method",
+      "creator-responsibility"
+    ],
+    "size": 69420
+  },
+  {
+    "path": "entities/avatar/tex-trans-tool.md",
+    "title": "TexTransTool (TTT) — 非破坏性纹理改写工具",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "physbone",
+      "udonsharp"
+    ],
+    "size": 17298
+  },
+  {
+    "path": "entities/avatar/thry-avatar-evaluator-metrics.md",
+    "title": "Thry Avatar Evaluator 7 项指标完整阈值",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "animator",
+      "performance"
+    ],
+    "size": 15192
+  },
+  {
+    "path": "entities/avatar/trust-rank.md",
+    "title": "VRChat Trust Rank — 玩家信任等级系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "trust",
+      "moderation",
+      "upload-permission",
+      "content-gating"
+    ],
+    "size": 6420
+  },
+  {
+    "path": "entities/avatar/unity-mcp.md",
+    "title": "Unity MCP (MCP for Unity) — AI 助手与 Unity Editor 的 MCP 桥接层",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "unity-editor",
+      "mcp",
+      "ai-assistant",
+      "toolchain"
+    ],
+    "size": 7712
+  },
+  {
+    "path": "entities/avatar/vrc-constraints.md",
+    "title": "VRChat Constraints 知识库",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "constraint",
+      "udonsharp"
+    ],
+    "size": 9130
+  },
+  {
+    "path": "entities/avatar/vrcfury-reference.md",
+    "title": "VRCFury 完整参考 — Non-Destructive Avatar 工具与优化系统",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "physbone",
+      "contact",
+      "modular-avatar",
+      "gogo-loco",
+      "vrcfury-workflow"
+    ],
+    "size": 32141
+  },
+  {
+    "path": "entities/avatar/vrcraycast.md",
+    "title": "VRCRaycast (Avatar 组件,SDK 3.10.3+)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "raycast",
+      "vrc-component",
+      "performance",
+      "sdk-3-10"
+    ],
+    "size": 4228
+  },
+  {
+    "path": "entities/avatar/world-fixed-objects.md",
+    "title": "Avatar 固定世界物品结构(World-Fixed Objects)",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "constraints",
+      "vrc-constraints",
+      "accessories",
+      "world-fixed",
+      "bone-binding"
+    ],
+    "size": 5054
+  },
+  {
+    "path": "entities/avatar/zh-translation-glossary.md",
+    "title": "VRChat Avatar 中英术语对照表",
+    "type": "entity",
+    "category": "avatar",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "avatar",
+      "glossary",
+      "translation",
+      "terminology",
+      "中文社区",
+      "vrcd-21-supplement"
+    ],
+    "size": 4389
+  },
+  {
+    "path": "entities/platform/account-registration-cn.md",
+    "title": "VRChat 账号注册 — 国内网络环境指南",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "platform",
+      "account",
+      "registration",
+      "hcaptcha",
+      "watt-toolkit",
+      "china"
+    ],
+    "size": 1813
+  },
+  {
+    "path": "entities/platform/android-development.md",
+    "title": "Android/Quest Development",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "platform",
+      "shader",
+      "light",
+      "avatar"
+    ],
+    "size": 11031
+  },
+  {
+    "path": "entities/platform/backup-strategy.md",
+    "title": "VRChat 创作者备份策略",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "backup",
+      "storage"
+    ],
+    "size": 2193
+  },
+  {
+    "path": "entities/platform/cross-platform-content.md",
+    "title": "Cross-Platform Content",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 4537
+  },
+  {
+    "path": "entities/platform/easyquestswitch.md",
+    "title": "EasyQuestSwitch 知识库",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "bakery",
+      "light"
+    ],
+    "size": 7561
+  },
+  {
+    "path": "entities/platform/index.md",
+    "title": "Platform Domain — 跨平台开发知识库",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3769
+  },
+  {
+    "path": "entities/platform/meta-quest-troubleshooting.md",
+    "title": "Meta Quest 设备 / 系统故障排查（候选专题）",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "low",
+    "status": "draft",
+    "tags": [
+      "platform",
+      "quest",
+      "meta",
+      "troubleshooting"
+    ],
+    "size": 1566
+  },
+  {
+    "path": "entities/platform/mobile-ui-optimization.md",
+    "title": "Mobile UI Optimization",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "platform",
+      "optimization",
+      "udonsharp"
+    ],
+    "size": 2698
+  },
+  {
+    "path": "entities/platform/player-config.md",
+    "title": "VRChat Performance Options — 玩家性能设置面板",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "player-config",
+      "performance",
+      "graphics-quality",
+      "avatar-culling",
+      "impostor"
+    ],
+    "size": 11265
+  },
+  {
+    "path": "entities/platform/unity-admin-warning.md",
+    "title": "Unity 管理员权限警告 — \"Unity is running as administrator",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "unity",
+      "troubleshooting",
+      "warning",
+      "uac",
+      "windows"
+    ],
+    "size": 5460
+  },
+  {
+    "path": "entities/platform/unity-install-cn.md",
+    "title": "Unity Hub 与编辑器安装 — 国内网络环境",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "unity",
+      "unity-hub",
+      "china",
+      "quest",
+      "android"
+    ],
+    "size": 3813
+  },
+  {
+    "path": "entities/platform/unity-recorder.md",
+    "title": "Unity Recorder — 截图与录屏工具",
+    "type": "entity",
+    "category": "platform",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "platform",
+      "unity",
+      "tool",
+      "screenshot",
+      "recording",
+      "recorder"
+    ],
+    "size": 4777
+  },
+  {
+    "path": "entities/vrchatsdk/api-authentication.md",
+    "title": "VRChat API 参考 - 认证模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 2873
+  },
+  {
+    "path": "entities/vrchatsdk/api-avatars.md",
+    "title": "VRChat API 参考 - Avatar 模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 2720
+  },
+  {
+    "path": "entities/vrchatsdk/api-favorites.md",
+    "title": "VRChat API 参考 - 收藏模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 2338
+  },
+  {
+    "path": "entities/vrchatsdk/api-files.md",
+    "title": "VRChat API 参考 - 文件模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3122
+  },
+  {
+    "path": "entities/vrchatsdk/api-friends.md",
+    "title": "VRChat API 参考 - 好友模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 1681
+  },
+  {
+    "path": "entities/vrchatsdk/api-groups.md",
+    "title": "VRChat API 参考 - 群组模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3933
+  },
+  {
+    "path": "entities/vrchatsdk/api-instances.md",
+    "title": "VRChat API 参考 - 实例模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 1750
+  },
+  {
+    "path": "entities/vrchatsdk/api-notifications.md",
+    "title": "VRChat API 参考 - 通知模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 1965
+  },
+  {
+    "path": "entities/vrchatsdk/api-users.md",
+    "title": "VRChat API 参考 - 用户模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 2932
+  },
+  {
+    "path": "entities/vrchatsdk/api-worlds.md",
+    "title": "VRChat API 参考 - 世界模块",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3077
+  },
+  {
+    "path": "entities/vrchatsdk/faq.md",
+    "title": "Frequently asked questions",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "performance",
+      "udonsharp"
+    ],
+    "size": 3841
+  },
+  {
+    "path": "entities/vrchatsdk/homepage.md",
+    "title": "VRChat.community API 首页",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "api",
+      "http",
+      "websocket",
+      "sdk"
+    ],
+    "size": 3159
+  },
+  {
+    "path": "entities/vrchatsdk/index.md",
+    "title": "VRChatSDK 知识库索引",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 4107
+  },
+  {
+    "path": "entities/vrchatsdk/instances.md",
+    "title": "Instances",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "sync",
+      "event"
+    ],
+    "size": 2356
+  },
+  {
+    "path": "entities/vrchatsdk/model-current-user.md",
+    "title": "VRChat 数据模型 - CurrentUser",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 3772
+  },
+  {
+    "path": "entities/vrchatsdk/model-user.md",
+    "title": "VRChat 数据模型 - User",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 2389
+  },
+  {
+    "path": "entities/vrchatsdk/tags.md",
+    "title": "Tags",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 5290
+  },
+  {
+    "path": "entities/vrchatsdk/typescript-sdk.md",
+    "title": "VRChat.js - JavaScript SDK",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "contact",
+      "udonsharp"
+    ],
+    "size": 7630
+  },
+  {
+    "path": "entities/vrchatsdk/websocket-api.md",
+    "title": "Websocket API",
+    "type": "entity",
+    "category": "vrchatsdk",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "vrchatsdk",
+      "json",
+      "avatar"
+    ],
+    "size": 7730
+  },
+  {
+    "path": "entities/world/audio-steam.md",
+    "title": "Steam Audio 默认音频空间化 (2025.4.2+)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "audio",
+      "steam-audio",
+      "onsp",
+      "spatialization",
+      "migration",
+      "2025"
+    ],
+    "size": 5369
+  },
+  {
+    "path": "entities/world/bakery/index.md",
+    "title": "Bakery GPU Lightmapper 知识库",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 5979
+  },
+  {
+    "path": "entities/world/bakery/light-baking-guide.md",
+    "title": "光照烘焙深度指南",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "bakery",
+      "udonsharp"
+    ],
+    "size": 6545
+  },
+  {
+    "path": "entities/world/clientsim/index.md",
+    "title": "ClientSim",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3986
+  },
+  {
+    "path": "entities/world/clientsim/playerdata-editor.md",
+    "title": "PlayerData Editor",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "json"
+    ],
+    "size": 2338
+  },
+  {
+    "path": "entities/world/clientsim/playerobject-editor.md",
+    "title": "PlayerObject Editor",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "json"
+    ],
+    "size": 1737
+  },
+  {
+    "path": "entities/world/clientsim/systems/architecture.md",
+    "title": "Architecture",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "event",
+      "udonsharp"
+    ],
+    "size": 3314
+  },
+  {
+    "path": "entities/world/clientsim/systems/editor.md",
+    "title": "Editor Systems",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "json"
+    ],
+    "size": 2191
+  },
+  {
+    "path": "entities/world/clientsim/systems/index.md",
+    "title": "ClientSim Systems",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3009
+  },
+  {
+    "path": "entities/world/clientsim/systems/runtime.md",
+    "title": "Runtime Systems",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "pickup",
+      "event",
+      "light"
+    ],
+    "size": 3726
+  },
+  {
+    "path": "entities/world/clientsim/systems/script-execution-order.md",
+    "title": "Script Execution Order",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "station",
+      "event"
+    ],
+    "size": 4606
+  },
+  {
+    "path": "entities/world/community-labs.md",
+    "title": "VRChat Community Labs — World 社区实验室发布系统",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "publishing",
+      "trust",
+      "community"
+    ],
+    "size": 5163
+  },
+  {
+    "path": "entities/world/companions.md",
+    "title": "Companions & Props (Items 分离,2026.2.3+)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "items",
+      "companions",
+      "props",
+      "creator-granularity",
+      "2026"
+    ],
+    "size": 4845
+  },
+  {
+    "path": "entities/world/creator-economy.md",
+    "title": "Creator Economy SDK",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 3123
+  },
+  {
+    "path": "entities/world/data-containers.md",
+    "title": "Data Containers & VRCJson ⚠️ 已迁移",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "deprecated",
+    "tags": [
+      "world",
+      "deprecated",
+      "udon",
+      "data-containers",
+      "vrcjson"
+    ],
+    "size": 1328
+  },
+  {
+    "path": "entities/world/development/index.md",
+    "title": "World Development Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "development",
+      "index",
+      "navigation"
+    ],
+    "size": 700
+  },
+  {
+    "path": "entities/world/development/vm-setup.md",
+    "title": "VRChat in Virtual Machine — VM + EAC 调试配置",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "vm",
+      "eac",
+      "libvirt",
+      "proxmox",
+      "debugging"
+    ],
+    "size": 10967
+  },
+  {
+    "path": "entities/world/examples/ai-navigation.md",
+    "title": "AI Navigation Example",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "event",
+      "light"
+    ],
+    "size": 4109
+  },
+  {
+    "path": "entities/world/examples/detect-controller-collide.md",
+    "title": "Detect Controller Collide",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "event",
+      "udonsharp"
+    ],
+    "size": 4036
+  },
+  {
+    "path": "entities/world/examples/image-loading.md",
+    "title": "Image Loading Example",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "event",
+      "udonsharp"
+    ],
+    "size": 4974
+  },
+  {
+    "path": "entities/world/examples/index.md",
+    "title": "World Examples Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "examples",
+      "index",
+      "navigation",
+      "obsidian"
+    ],
+    "size": 1637
+  },
+  {
+    "path": "entities/world/examples/midi-playback.md",
+    "title": "MIDI Playback",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "audio",
+      "event"
+    ],
+    "size": 5583
+  },
+  {
+    "path": "entities/world/examples/minimap.md",
+    "title": "Minimap",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "shader",
+      "pickup"
+    ],
+    "size": 4565
+  },
+  {
+    "path": "entities/world/examples/mute-others.md",
+    "title": "Mute Others",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 4944
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/build-from-custom-parts.md",
+    "title": "Obstacle Course: Build From Custom Parts(自定义预制件)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "event",
+      "udonsharp"
+    ],
+    "size": 6624
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/build-from-demo-parts.md",
+    "title": "Obstacle Course: Build From Demo Parts(基于预制件构建)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3932
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/index.md",
+    "title": "Obstacle Course(障碍赛 / World Jam 2)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 4417
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/uoc-flythrough.md",
+    "title": "Obstacle Course: Flythrough(预览相机 / 飞行通过)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3210
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/uoc-how-stuff-works.md",
+    "title": "Obstacle Course: How Stuff Works(内部机制详解)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "serialization",
+      "ownership"
+    ],
+    "size": 10783
+  },
+  {
+    "path": "entities/world/examples/obstacle-course/uoc-window.md",
+    "title": "Obstacle Course Toolkit(Toolkit 窗口 / Editor 扩展)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 5753
+  },
+  {
+    "path": "entities/world/examples/persistence/health-bar.md",
+    "title": "Health Bar(血条)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "udonsharp"
+    ],
+    "size": 2243
+  },
+  {
+    "path": "entities/world/examples/persistence/index.md",
+    "title": "Persistence Examples - 索引",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 4325
+  },
+  {
+    "path": "entities/world/examples/persistence/leaderboard.md",
+    "title": "Leaderboard(排行榜)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "udonsharp"
+    ],
+    "size": 1977
+  },
+  {
+    "path": "entities/world/examples/persistence/persistent-idle-game.md",
+    "title": "Persistent Idle Game(放置类游戏)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "networking"
+    ],
+    "size": 2336
+  },
+  {
+    "path": "entities/world/examples/persistence/persistent-pen.md",
+    "title": "Persistent Pen(持久化画笔)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "udonsharp"
+    ],
+    "size": 2561
+  },
+  {
+    "path": "entities/world/examples/persistence/playerdata-types.md",
+    "title": "Player Data Types(PlayerData 数据类型)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "json"
+    ],
+    "size": 2699
+  },
+  {
+    "path": "entities/world/examples/persistence/position-sync.md",
+    "title": "Position Sync(位置同步)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "networking",
+      "sync",
+      "udonsharp"
+    ],
+    "size": 3355
+  },
+  {
+    "path": "entities/world/examples/persistence/post-processing-settings.md",
+    "title": "Post-Processing Settings(后处理设置)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "networking",
+      "event",
+      "udonsharp"
+    ],
+    "size": 3098
+  },
+  {
+    "path": "entities/world/examples/persistence/simple-rpg.md",
+    "title": "Simple RPG(简单 RPG)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "udonsharp"
+    ],
+    "size": 2998
+  },
+  {
+    "path": "entities/world/examples/persistence/unlock-items.md",
+    "title": "Unlock Items(永久解锁)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "networking",
+      "udonsharp"
+    ],
+    "size": 3570
+  },
+  {
+    "path": "entities/world/examples/player-join-zones.md",
+    "title": "Player Join Zones",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "avatar"
+    ],
+    "size": 6989
+  },
+  {
+    "path": "entities/world/examples/README.md",
+    "title": "World Examples — SDK 与官方示例索引",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 3411
+  },
+  {
+    "path": "entities/world/examples/screen-canvas.md",
+    "title": "Screen Canvas",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 5552
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/avatar-scaling-settings.md",
+    "title": "Avatar Scaling Settings",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "avatar",
+      "udonsharp"
+    ],
+    "size": 1966
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/index.md",
+    "title": "Udon Example Scene",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 11603
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/player-mod-setter.md",
+    "title": "Player Mod Setter",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon-graph",
+      "udonsharp"
+    ],
+    "size": 2053
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/simple-pen-system.md",
+    "title": "Simple Pen System",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "pickup"
+    ],
+    "size": 4098
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/udon-video-sync-player.md",
+    "title": "Udon Video Sync Player",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "video"
+    ],
+    "size": 4800
+  },
+  {
+    "path": "entities/world/examples/udon-example-scene/world-audio-settings.md",
+    "title": "World Audio Settings",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "audio",
+      "avatar"
+    ],
+    "size": 3381
+  },
+  {
+    "path": "entities/world/examples/udon.md",
+    "title": "Udon Basics",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon-graph",
+      "udonsharp"
+    ],
+    "size": 4668
+  },
+  {
+    "path": "entities/world/index.md",
+    "title": "World Domain Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "index",
+      "navigation",
+      "obsidian"
+    ],
+    "size": 3434
+  },
+  {
+    "path": "entities/world/items.md",
+    "title": "Items in Udon Worlds",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "mirror",
+      "udonsharp"
+    ],
+    "size": 5952
+  },
+  {
+    "path": "entities/world/layers.md",
+    "title": "Unity Layers in VRChat",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "pickup",
+      "mirror",
+      "portal",
+      "culling",
+      "reflection"
+    ],
+    "size": 9842
+  },
+  {
+    "path": "entities/world/luraswitch2.md",
+    "title": "LuraSwitch2 通用开关套件(2026 重写版)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "luraswitch2",
+      "recommended-plugin",
+      "udonsharp",
+      "vpm",
+      "2026-rewrite"
+    ],
+    "size": 13097
+  },
+  {
+    "path": "entities/world/occlusion-culling-guide.md",
+    "title": "遮挡剔除（Occlusion Culling）深度指南",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "occlusion",
+      "culling"
+    ],
+    "size": 2190
+  },
+  {
+    "path": "entities/world/patterns/dynamic-player-list.md",
+    "title": "World 模式 — 动态生成玩家传送按钮",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "pattern",
+      "ui",
+      "player-api",
+      "canvas",
+      "button",
+      "vrc-ui-shape"
+    ],
+    "size": 7804
+  },
+  {
+    "path": "entities/world/patterns/index.md",
+    "title": "World Patterns — Udon 设计模式与典型场景",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "patterns",
+      "udonsharp",
+      "index"
+    ],
+    "size": 1762
+  },
+  {
+    "path": "entities/world/performance-guide.md",
+    "title": "VRChat World 性能优化指南",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "shader",
+      "avatar"
+    ],
+    "size": 4950
+  },
+  {
+    "path": "entities/world/reflection-probes.md",
+    "title": "Unity 反射探针与 VRChat World",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "reflection",
+      "avatar"
+    ],
+    "size": 3453
+  },
+  {
+    "path": "entities/world/scene-components/audiolowpassfilter.md",
+    "title": "AudioLowPassFilter — 世界音频组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "audio",
+      "audio-filter",
+      "occlusion"
+    ],
+    "size": 4510
+  },
+  {
+    "path": "entities/world/scene-components/audioreverbzone.md",
+    "title": "AudioReverbZone — 世界音频组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "audio",
+      "audio-filter",
+      "spatial"
+    ],
+    "size": 4335
+  },
+  {
+    "path": "entities/world/scene-components/audiosource.md",
+    "title": "AudioSource — 世界音频组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "audio",
+      "spatial",
+      "pickup"
+    ],
+    "size": 4752
+  },
+  {
+    "path": "entities/world/scene-components/boxcollider.md",
+    "title": "BoxCollider — 世界组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider",
+      "pickup"
+    ],
+    "size": 4569
+  },
+  {
+    "path": "entities/world/scene-components/camera.md",
+    "title": "Camera 组件参考（VRChat 白名单）",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "scene-components",
+      "camera",
+      "unity-native",
+      "whitelist"
+    ],
+    "size": 2097
+  },
+  {
+    "path": "entities/world/scene-components/canvas.md",
+    "title": "Canvas — 世界 UI 组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "ui",
+      "rendering",
+      "performance"
+    ],
+    "size": 4770
+  },
+  {
+    "path": "entities/world/scene-components/canvasgroup.md",
+    "title": "CanvasGroup — 世界 UI 组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "ui",
+      "rendering"
+    ],
+    "size": 3424
+  },
+  {
+    "path": "entities/world/scene-components/capsulecollider.md",
+    "title": "CapsuleCollider — 世界组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider",
+      "pickup"
+    ],
+    "size": 4699
+  },
+  {
+    "path": "entities/world/scene-components/characterjoint.md",
+    "title": "CharacterJoint — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "joint"
+    ],
+    "size": 5047
+  },
+  {
+    "path": "entities/world/scene-components/cloth.md",
+    "title": "Cloth — 世界物理布料组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider"
+    ],
+    "size": 3435
+  },
+  {
+    "path": "entities/world/scene-components/configurablejoint.md",
+    "title": "ConfigurableJoint — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "joint"
+    ],
+    "size": 5523
+  },
+  {
+    "path": "entities/world/scene-components/constant-force.md",
+    "title": "ConstantForce — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics"
+    ],
+    "size": 3327
+  },
+  {
+    "path": "entities/world/scene-components/fixed-joint.md",
+    "title": "FixedJoint — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "joint"
+    ],
+    "size": 3970
+  },
+  {
+    "path": "entities/world/scene-components/hinge-joint.md",
+    "title": "HingeJoint — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "joint"
+    ],
+    "size": 4641
+  },
+  {
+    "path": "entities/world/scene-components/index.md",
+    "title": "Scene Components 总览",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 10188
+  },
+  {
+    "path": "entities/world/scene-components/light.md",
+    "title": "Light — 世界光照组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "light",
+      "baking",
+      "performance",
+      "quest",
+      "probe"
+    ],
+    "size": 5577
+  },
+  {
+    "path": "entities/world/scene-components/lightprobegroup.md",
+    "title": "LightProbeGroup — 世界光照组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "light",
+      "baking",
+      "probe",
+      "performance"
+    ],
+    "size": 4415
+  },
+  {
+    "path": "entities/world/scene-components/linerenderer.md",
+    "title": "LineRenderer — 世界渲染组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "performance"
+    ],
+    "size": 4812
+  },
+  {
+    "path": "entities/world/scene-components/meshcollider.md",
+    "title": "MeshCollider — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider",
+      "mesh"
+    ],
+    "size": 4432
+  },
+  {
+    "path": "entities/world/scene-components/meshrenderer.md",
+    "title": "MeshRenderer — 世界网格渲染组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "mesh",
+      "material",
+      "optimization",
+      "shader"
+    ],
+    "size": 6497
+  },
+  {
+    "path": "entities/world/scene-components/navmeshagent.md",
+    "title": "NavMeshAgent — 世界导航组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "navmesh",
+      "performance",
+      "sync"
+    ],
+    "size": 5465
+  },
+  {
+    "path": "entities/world/scene-components/navmeshobstacle.md",
+    "title": "NavMeshObstacle — 世界导航障碍组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "navmesh",
+      "performance"
+    ],
+    "size": 4793
+  },
+  {
+    "path": "entities/world/scene-components/offmeshlink.md",
+    "title": "OffMeshLink — 世界导航离网链接组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "navmesh",
+      "performance",
+      "sync"
+    ],
+    "size": 4322
+  },
+  {
+    "path": "entities/world/scene-components/particlesystem.md",
+    "title": "ParticleSystem — 世界粒子组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "particle",
+      "performance",
+      "quest",
+      "shader"
+    ],
+    "size": 7796
+  },
+  {
+    "path": "entities/world/scene-components/particlesystemforcefield.md",
+    "title": "ParticleSystemForceField — 世界粒子力场组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "particle",
+      "force-field",
+      "performance"
+    ],
+    "size": 4729
+  },
+  {
+    "path": "entities/world/scene-components/playable-director.md",
+    "title": "PlayableDirector — 世界 Timeline 播放组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "animation"
+    ],
+    "size": 3004
+  },
+  {
+    "path": "entities/world/scene-components/reflection-probe.md",
+    "title": "ReflectionProbe — 世界反射探针组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "rendering",
+      "reflection",
+      "probe",
+      "light"
+    ],
+    "size": 3355
+  },
+  {
+    "path": "entities/world/scene-components/rigidbody.md",
+    "title": "Rigidbody — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider",
+      "pickup",
+      "sync"
+    ],
+    "size": 5087
+  },
+  {
+    "path": "entities/world/scene-components/skinnedmeshrenderer.md",
+    "title": "SkinnedMeshRenderer — 世界蒙皮网格渲染组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "mesh",
+      "material",
+      "optimization",
+      "shader",
+      "quest"
+    ],
+    "size": 6295
+  },
+  {
+    "path": "entities/world/scene-components/spherecollider.md",
+    "title": "SphereCollider — 世界组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "collider",
+      "pickup"
+    ],
+    "size": 4655
+  },
+  {
+    "path": "entities/world/scene-components/spring-joint.md",
+    "title": "SpringJoint — 世界物理组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "physics",
+      "joint"
+    ],
+    "size": 3717
+  },
+  {
+    "path": "entities/world/scene-components/textmeshpro.md",
+    "title": "TextMesh Pro (TMP)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference"
+    ],
+    "size": 6236
+  },
+  {
+    "path": "entities/world/scene-components/trailrenderer.md",
+    "title": "TrailRenderer — 世界渲染组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "performance"
+    ],
+    "size": 4986
+  },
+  {
+    "path": "entities/world/scene-components/unity-audio-filters.md",
+    "title": "Unity 音频滤镜合并专页（5 个杂项滤镜）",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "audio",
+      "audio-filter"
+    ],
+    "size": 4946
+  },
+  {
+    "path": "entities/world/scene-components/unity-constraints.md",
+    "title": "Unity Constraints 组件参考（VRChat 白名单）",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "scene-components",
+      "constraint",
+      "unity-native",
+      "whitelist"
+    ],
+    "size": 2959
+  },
+  {
+    "path": "entities/world/scene-components/unity-environment-components.md",
+    "title": "Unity 环境/地形/文本杂项合并专页（Terrain / Tilemap / Skybox / TextMesh）",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "physics",
+      "mesh",
+      "reference"
+    ],
+    "size": 10147
+  },
+  {
+    "path": "entities/world/scene-components/unity-rendering-aux.md",
+    "title": "Unity 渲染/2D 杂项组件合并专页（LightProbeProxyVolume / LODGroup / Projector / SpriteRenderer / SpriteMask / BillboardRenderer）",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "rendering",
+      "mesh",
+      "light",
+      "probe",
+      "particle",
+      "camera"
+    ],
+    "size": 11814
+  },
+  {
+    "path": "entities/world/scene-components/videoplayer.md",
+    "title": "VideoPlayer — 世界视频组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "unity",
+      "video",
+      "quest"
+    ],
+    "size": 4683
+  },
+  {
+    "path": "entities/world/scene-components/vrc-avatarpedestal.md",
+    "title": "VRC Avatar Pedestal",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "avatar"
+    ],
+    "size": 4031
+  },
+  {
+    "path": "entities/world/scene-components/vrc-cameradolly.md",
+    "title": "VRC Camera Dolly",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "video",
+      "udonsharp"
+    ],
+    "size": 4995
+  },
+  {
+    "path": "entities/world/scene-components/vrc-enablepersistence.md",
+    "title": "VRC Enable Persistence",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "persistence",
+      "udonsharp"
+    ],
+    "size": 6991
+  },
+  {
+    "path": "entities/world/scene-components/vrc-mirrorreflection.md",
+    "title": "VRC Mirror Reflection",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "shader",
+      "mirror",
+      "light",
+      "occlusion",
+      "reflection"
+    ],
+    "size": 6972
+  },
+  {
+    "path": "entities/world/scene-components/vrc-objectsync.md",
+    "title": "VRC Object Sync ⭐",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "ownership"
+    ],
+    "size": 11071
+  },
+  {
+    "path": "entities/world/scene-components/vrc-portalmarker.md",
+    "title": "VRC Portal Marker",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "portal",
+      "udonsharp"
+    ],
+    "size": 5469
+  },
+  {
+    "path": "entities/world/scene-components/vrc-scenedescriptor.md",
+    "title": "VRC Scene Descriptor ⭐",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "pickup",
+      "portal"
+    ],
+    "size": 7442
+  },
+  {
+    "path": "entities/world/scene-components/vrc-station.md",
+    "title": "VRC Station",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "animator",
+      "playable-layer",
+      "station",
+      "avatar"
+    ],
+    "size": 9584
+  },
+  {
+    "path": "entities/world/sdk-prefabs.md",
+    "title": "SDK Prefabs",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "video",
+      "mirror",
+      "portal",
+      "avatar"
+    ],
+    "size": 7962
+  },
+  {
+    "path": "entities/world/shader/graphlit.md",
+    "title": "Graphlit 节点式 Shader 编辑器",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "shader",
+      "liltoon",
+      "avatar"
+    ],
+    "size": 6198
+  },
+  {
+    "path": "entities/world/shader/index.md",
+    "title": "World Shader 知识库索引",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 1495
+  },
+  {
+    "path": "entities/world/supported-assets.md",
+    "title": "Supported Scripted Assets",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "physbone",
+      "udonsharp"
+    ],
+    "size": 8929
+  },
+  {
+    "path": "entities/world/udon/ai-navigation.md",
+    "title": "AI Navigation",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 5106
+  },
+  {
+    "path": "entities/world/udon/animation-events.md",
+    "title": "Animation Events - Animator 事件白名单",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "animator",
+      "event"
+    ],
+    "size": 3540
+  },
+  {
+    "path": "entities/world/udon/avatar-events.md",
+    "title": "Avatar Events - 玩家 Avatar 变更事件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking",
+      "event",
+      "avatar"
+    ],
+    "size": 6091
+  },
+  {
+    "path": "entities/world/udon/data-containers/byte-and-bit-operations.md",
+    "title": "Byte and Bit Operations",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-container",
+      "udonsharp"
+    ],
+    "size": 21587
+  },
+  {
+    "path": "entities/world/udon/data-containers/data-dictionaries.md",
+    "title": "Data Dictionaries",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "data-dictionary",
+      "dictionary",
+      "key-value",
+      "json",
+      "udonsharp"
+    ],
+    "size": 16473
+  },
+  {
+    "path": "entities/world/udon/data-containers/data-lists.md",
+    "title": "Data Lists",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "data-list",
+      "list",
+      "dynamic-array",
+      "udonsharp"
+    ],
+    "size": 15397
+  },
+  {
+    "path": "entities/world/udon/data-containers/data-tokens.md",
+    "title": "Data Tokens",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "data-token",
+      "token-type",
+      "type-system",
+      "udonsharp"
+    ],
+    "size": 13199
+  },
+  {
+    "path": "entities/world/udon/data-containers/index.md",
+    "title": "Data Containers & VRCJson",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "index",
+      "navigation",
+      "json"
+    ],
+    "size": 6111
+  },
+  {
+    "path": "entities/world/udon/data-containers/performance-notes.md",
+    "title": "DataList/DataDictionary 性能基准说明",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "data-list",
+      "data-dictionary",
+      "performance",
+      "benchmark",
+      "unverified"
+    ],
+    "size": 13958
+  },
+  {
+    "path": "entities/world/udon/data-containers/vrcjson.md",
+    "title": "VRCJSON",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "data-containers",
+      "vrcjson",
+      "json",
+      "serialization",
+      "deserialize",
+      "udonsharp"
+    ],
+    "size": 18286
+  },
+  {
+    "path": "entities/world/udon/debugging-udon-projects.md",
+    "title": "Debugging Udon Projects",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 7614
+  },
+  {
+    "path": "entities/world/udon/event-execution-order.md",
+    "title": "Event Execution Order - 事件执行顺序",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "event"
+    ],
+    "size": 8003
+  },
+  {
+    "path": "entities/world/udon/external-urls.md",
+    "title": "External URLs - 外部 URL 与白名单",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 5194
+  },
+  {
+    "path": "entities/world/udon/graph/event-nodes.md",
+    "title": "Udon Event Nodes | 事件节点",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking",
+      "pickup",
+      "event"
+    ],
+    "size": 7918
+  },
+  {
+    "path": "entities/world/udon/graph/graph-elements.md",
+    "title": "Graph Elements | Graph 元素",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 3071
+  },
+  {
+    "path": "entities/world/udon/graph/index.md",
+    "title": "Udon Node Graph | 主页",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 4686
+  },
+  {
+    "path": "entities/world/udon/graph/searching-for-nodes.md",
+    "title": "Searching for Nodes | 节点搜索",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udon-graph"
+    ],
+    "size": 3453
+  },
+  {
+    "path": "entities/world/udon/graph/special-nodes.md",
+    "title": "Special Nodes | 特殊节点",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 7084
+  },
+  {
+    "path": "entities/world/udon/graph/type-nodes.md",
+    "title": "Type Nodes | 类型引用节点",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "mirror",
+      "reflection",
+      "avatar"
+    ],
+    "size": 7291
+  },
+  {
+    "path": "entities/world/udon/image-loading.md",
+    "title": "Image Loading - 远程图片加载",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 9300
+  },
+  {
+    "path": "entities/world/udon/index.md",
+    "title": "Udon 总览",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 6556
+  },
+  {
+    "path": "entities/world/udon/input-events.md",
+    "title": "Input Events - 玩家输入事件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "event"
+    ],
+    "size": 10537
+  },
+  {
+    "path": "entities/world/udon/launch-options.md",
+    "title": "VRChat Launch Options — 17 个启动选项完整参考",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "launch-options",
+      "debugging",
+      "build-test",
+      "command-line"
+    ],
+    "size": 9678
+  },
+  {
+    "path": "entities/world/udon/local-storage.md",
+    "title": "VRChat Local Storage — 本地文件系统与注册表",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "local-storage",
+      "appdata",
+      "registry",
+      "local-player-moderations"
+    ],
+    "size": 8874
+  },
+  {
+    "path": "entities/world/udon/midi/index.md",
+    "title": "MIDI in Udon",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 4586
+  },
+  {
+    "path": "entities/world/udon/midi/midi-playback.md",
+    "title": "MIDI Playback(MIDI 文件回放)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "audio"
+    ],
+    "size": 8314
+  },
+  {
+    "path": "entities/world/udon/midi/realtime-midi.md",
+    "title": "Realtime MIDI(实时 MIDI 输入)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "event"
+    ],
+    "size": 8178
+  },
+  {
+    "path": "entities/world/udon/networking/architecture.md",
+    "title": "Network Sync Architecture",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking",
+      "architecture"
+    ],
+    "size": 1548
+  },
+  {
+    "path": "entities/world/udon/networking/compatibility.md",
+    "title": "Network Compatibility 跨版本兼容",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon"
+    ],
+    "size": 5310
+  },
+  {
+    "path": "entities/world/udon/networking/debugging.md",
+    "title": "Debugging Network Issues 网络调试",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "sync",
+      "serialization",
+      "ownership"
+    ],
+    "size": 11609
+  },
+  {
+    "path": "entities/world/udon/networking/events.md",
+    "title": "Network Events 网络事件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "serialization",
+      "ownership",
+      "event"
+    ],
+    "size": 12148
+  },
+  {
+    "path": "entities/world/udon/networking/index.md",
+    "title": "Networking 概述",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 7767
+  },
+  {
+    "path": "entities/world/udon/networking/late-joiners.md",
+    "title": "Late Joiners 迟到玩家同步",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "sync",
+      "serialization",
+      "event",
+      "udonsharp"
+    ],
+    "size": 13017
+  },
+  {
+    "path": "entities/world/udon/networking/network-components.md",
+    "title": "Network Components 网络组件",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon"
+    ],
+    "size": 11219
+  },
+  {
+    "path": "entities/world/udon/networking/network-details.md",
+    "title": "Networking Specs & Tricks 内部细节",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "sync",
+      "serialization"
+    ],
+    "size": 11850
+  },
+  {
+    "path": "entities/world/udon/networking/ownership.md",
+    "title": "Object Ownership 对象所有权",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "ownership"
+    ],
+    "size": 9173
+  },
+  {
+    "path": "entities/world/udon/networking/patterns.md",
+    "title": "Networking Patterns",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking",
+      "patterns"
+    ],
+    "size": 1133
+  },
+  {
+    "path": "entities/world/udon/networking/performance.md",
+    "title": "Performance Considerations 性能优化",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "sync",
+      "performance",
+      "serialization",
+      "event"
+    ],
+    "size": 12073
+  },
+  {
+    "path": "entities/world/udon/networking/tools/index.md",
+    "title": "Networking Tools Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking",
+      "tools",
+      "index"
+    ],
+    "size": 778
+  },
+  {
+    "path": "entities/world/udon/networking/tools/network-id-utility.md",
+    "title": "Network ID Utility | VRChat Creation",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "json"
+    ],
+    "size": 4890
+  },
+  {
+    "path": "entities/world/udon/networking/tools/network-stats.md",
+    "title": "Network Stats | VRChat Creation",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon"
+    ],
+    "size": 7491
+  },
+  {
+    "path": "entities/world/udon/networking/variables.md",
+    "title": "Network Variables 网络变量",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "networking",
+      "udon",
+      "sync",
+      "serialization",
+      "event",
+      "udonsharp"
+    ],
+    "size": 11073
+  },
+  {
+    "path": "entities/world/udon/persistence/index.md",
+    "title": "Persistence 实战教程 - 索引",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "storage",
+      "index",
+      "navigation"
+    ],
+    "size": 7538
+  },
+  {
+    "path": "entities/world/udon/persistence/limits-and-quirks.md",
+    "title": "100KB 限制与常见陷阱",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "limits",
+      "storage",
+      "optimization",
+      "pitfalls"
+    ],
+    "size": 12251
+  },
+  {
+    "path": "entities/world/udon/persistence/patterns/index.md",
+    "title": "Persistence Patterns Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "patterns",
+      "index"
+    ],
+    "size": 940
+  },
+  {
+    "path": "entities/world/udon/persistence/patterns/leaderboard.md",
+    "title": "排行榜实现(Pattern)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "patterns",
+      "leaderboard",
+      "playerdata",
+      "score"
+    ],
+    "size": 12256
+  },
+  {
+    "path": "entities/world/udon/persistence/patterns/persistent-pen.md",
+    "title": "持久画笔实现(Pattern)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "patterns",
+      "pen",
+      "drawing",
+      "playerobject",
+      "line"
+    ],
+    "size": 16250
+  },
+  {
+    "path": "entities/world/udon/persistence/patterns/unlock-items.md",
+    "title": "解锁物品实现(Pattern)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "patterns",
+      "unlock",
+      "achievement",
+      "inventory"
+    ],
+    "size": 14926
+  },
+  {
+    "path": "entities/world/udon/persistence/player-data.md",
+    "title": "PlayerData 实战",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "storage",
+      "player-data",
+      "key-value"
+    ],
+    "size": 9247
+  },
+  {
+    "path": "entities/world/udon/persistence/player-object.md",
+    "title": "PlayerObject 实战",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "storage",
+      "player-object",
+      "gameplay-object"
+    ],
+    "size": 8597
+  },
+  {
+    "path": "entities/world/udon/persistence/serialization.md",
+    "title": "序列化类型清单",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "persistence",
+      "serialization",
+      "data-types",
+      "byte-array"
+    ],
+    "size": 8541
+  },
+  {
+    "path": "entities/world/udon/players/drones/drone-information.md",
+    "title": "Drone Information — Drone 信息查询",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 9504
+  },
+  {
+    "path": "entities/world/udon/players/drones/getting-drones.md",
+    "title": "Getting Drones — 获取 Drone 实例",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 7642
+  },
+  {
+    "path": "entities/world/udon/players/drones/index.md",
+    "title": "Drone API 总览 (VRCDroneApi)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 3988
+  },
+  {
+    "path": "entities/world/udon/players/getting-players.md",
+    "title": "Getting Players — 获取玩家对象",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking"
+    ],
+    "size": 5668
+  },
+  {
+    "path": "entities/world/udon/players/index.md",
+    "title": "Player API 总览 (VRCPlayerApi)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 7317
+  },
+  {
+    "path": "entities/world/udon/players/player-audio.md",
+    "title": "Player Audio — 玩家语音与 Avatar 音频",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "audio",
+      "avatar"
+    ],
+    "size": 5366
+  },
+  {
+    "path": "entities/world/udon/players/player-avatar-scaling.md",
+    "title": "Player Avatar Scaling — Avatar 缩放系统",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "event",
+      "avatar"
+    ],
+    "size": 6970
+  },
+  {
+    "path": "entities/world/udon/players/player-collisions.md",
+    "title": "Player Collisions — 玩家碰撞检测",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 6071
+  },
+  {
+    "path": "entities/world/udon/players/player-forces.md",
+    "title": "Player Forces — 玩家移动力 / 速度 / 重力",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udonsharp"
+    ],
+    "size": 5459
+  },
+  {
+    "path": "entities/world/udon/players/player-positions.md",
+    "title": "Player Positions — 玩家位置/旋转/追踪/速度/传送",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "avatar",
+      "tracking"
+    ],
+    "size": 11558
+  },
+  {
+    "path": "entities/world/udon/string-loading.md",
+    "title": "String Loading - 远程字符串加载",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "json"
+    ],
+    "size": 8663
+  },
+  {
+    "path": "entities/world/udon/udon-moderation-tool-guidelines.md",
+    "title": "Udon 版主工具开发准则",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "networking"
+    ],
+    "size": 5034
+  },
+  {
+    "path": "entities/world/udon/udonsharp-linter.md",
+    "title": "UdonSharp Linter",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "debugging",
+      "toolchain",
+      "community",
+      "troubleshooting"
+    ],
+    "size": 2351
+  },
+  {
+    "path": "entities/world/udon/udonsharp/attributes.md",
+    "title": "UdonSharp Attributes",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "udon"
+    ],
+    "size": 7340
+  },
+  {
+    "path": "entities/world/udon/udonsharp/compilation.md",
+    "title": "UdonSharp 编译管线",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "udon"
+    ],
+    "size": 4882
+  },
+  {
+    "path": "entities/world/udon/udonsharp/configuration.md",
+    "title": "UdonSharp Configuration",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "udon"
+    ],
+    "size": 5122
+  },
+  {
+    "path": "entities/world/udon/udonsharp/editorscripting.md",
+    "title": "UdonSharp Editor Scripting",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "udon"
+    ],
+    "size": 10394
+  },
+  {
+    "path": "entities/world/udon/udonsharp/index.md",
+    "title": "UdonSharp - VRChat SDK C# 编程前端",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 6837
+  },
+  {
+    "path": "entities/world/udon/udonsharp/performance-tips.md",
+    "title": "UdonSharp Performance Tips",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "udon",
+      "guide",
+      "performance"
+    ],
+    "size": 10842
+  },
+  {
+    "path": "entities/world/udon/ui-events.md",
+    "title": "UI Events - Unity UI 事件白名单",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "animator",
+      "audio",
+      "event",
+      "udonsharp"
+    ],
+    "size": 10099
+  },
+  {
+    "path": "entities/world/udon/using-build-test.md",
+    "title": "Using Build & Test - 本地测试流程",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "animator",
+      "avatar"
+    ],
+    "size": 8556
+  },
+  {
+    "path": "entities/world/udon/video-players/ecosystem-overview.md",
+    "title": "Video Players Ecosystem Overview",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "video",
+      "player",
+      "ecosystem"
+    ],
+    "size": 2452
+  },
+  {
+    "path": "entities/world/udon/video-players/index.md",
+    "title": "Video Players Index",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "video",
+      "player"
+    ],
+    "size": 949
+  },
+  {
+    "path": "entities/world/udon/video-players/www-whitelist.md",
+    "title": "Video Player Allowlist - 视频白名单",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "video"
+    ],
+    "size": 10179
+  },
+  {
+    "path": "entities/world/udon/vm-and-assembly.md",
+    "title": "The Udon VM and Udon Assembly - 字节码与汇编参考",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "udon-graph",
+      "udonsharp"
+    ],
+    "size": 11804
+  },
+  {
+    "path": "entities/world/udon/vrc-graphics/asyncgpureadback.md",
+    "title": "VRCAsyncGPUReadback | 异步 GPU 读回",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "osc",
+      "event",
+      "udonsharp"
+    ],
+    "size": 7346
+  },
+  {
+    "path": "entities/world/udon/vrc-graphics/index.md",
+    "title": "VRC Graphics | VRCGraphics / VRCShader / VRCCameraSettings / VRCQualitySettings",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 8655
+  },
+  {
+    "path": "entities/world/udon/vrc-graphics/vrc-rendertexture.md",
+    "title": "VRCRenderTexture | 临时渲染纹理分配",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "rendering",
+      "rendertexture",
+      "vrc-graphics"
+    ],
+    "size": 3288
+  },
+  {
+    "path": "entities/world/udon/vrc-graphics/vrchat-shader-globals.md",
+    "title": "VRChat Shader Globals | `_VRChat*` 全局变量",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "shader",
+      "culling"
+    ],
+    "size": 7455
+  },
+  {
+    "path": "entities/world/udon/vrctween/basics.md",
+    "title": "VRCTween 基础 API",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "basics",
+      "api"
+    ],
+    "size": 9525
+  },
+  {
+    "path": "entities/world/udon/vrctween/control.md",
+    "title": "VRCTween 播放控制 + 设置 API",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "control"
+    ],
+    "size": 9913
+  },
+  {
+    "path": "entities/world/udon/vrctween/custom-tween.md",
+    "title": "VRCTween 自定义补间(虚拟补间 + AnimationCurve)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "virtual-tween",
+      "animationcurve"
+    ],
+    "size": 10319
+  },
+  {
+    "path": "entities/world/udon/vrctween/index.md",
+    "title": "VRCTween — 官方补间动画系统总览",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "index"
+    ],
+    "size": 6355
+  },
+  {
+    "path": "entities/world/udon/vrctween/patterns.md",
+    "title": "VRCTween 常用模式",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "patterns",
+      "best-practices"
+    ],
+    "size": 14385
+  },
+  {
+    "path": "entities/world/udon/vrctween/sequence.md",
+    "title": "VRCTween 序列与并行(用 OnComplete 链式回调)",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "sequence"
+    ],
+    "size": 10041
+  },
+  {
+    "path": "entities/world/udon/vrctween/tween-types.md",
+    "title": "VRCTween 补间类型全表",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "vrctween",
+      "animation",
+      "tween",
+      "tween-types"
+    ],
+    "size": 10031
+  },
+  {
+    "path": "entities/world/udon/world-debug-views.md",
+    "title": "World Debug Views - VRChat Debug 视图",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udon",
+      "physbone",
+      "contact",
+      "networking",
+      "audio"
+    ],
+    "size": 10866
+  },
+  {
+    "path": "entities/world/vrc-camera-settings.md",
+    "title": "VRCCameraSettings",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "udonsharp",
+      "reference",
+      "integral",
+      "camera-plugin",
+      "third-party-integration"
+    ],
+    "size": 13535
+  },
+  {
+    "path": "entities/world/vrc-light-volumes.md",
+    "title": "VRC Light Volumes",
+    "type": "entity",
+    "category": "world",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "world",
+      "shader",
+      "audio",
+      "light",
+      "avatar"
+    ],
+    "size": 11171
+  },
+  {
+    "path": "entities/world/vrc-quality-settings.md",
+    "title": "VRCQualitySettings",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "light",
+      "udonsharp"
+    ],
+    "size": 4978
+  },
+  {
+    "path": "entities/world/vvmw.md",
+    "title": "VizVid (VVMW) — VRChat 多功能视频播放器",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "sync",
+      "audio",
+      "video",
+      "light"
+    ],
+    "size": 9899
+  },
+  {
+    "path": "entities/world/whitelisted-world-components.md",
+    "title": "Allowlisted World Components",
+    "type": "entity",
+    "category": "world",
+    "confidence": "medium",
+    "status": "active",
+    "tags": [
+      "world",
+      "constraint",
+      "event"
+    ],
+    "size": 12101
+  },
+  {
+    "path": "FACT.md",
+    "title": "FACT.md - VRChat 技术知识库",
+    "type": "summary",
+    "category": "misc",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "knowledge-graph",
+      "meta"
+    ],
+    "size": 12154
+  },
+  {
+    "path": "index.md",
+    "title": "KB Index — Multi-Domain 路由地图",
+    "type": "navigation",
+    "category": "misc",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "misc",
+      "index",
+      "navigation"
+    ],
+    "size": 29554
+  },
+  {
+    "path": "meta/auxiliary-scripts.md",
+    "title": "辅助脚本清单",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "scripts",
+      "maintenance"
+    ],
+    "size": 1424
+  },
+  {
+    "path": "meta/index.md",
+    "title": "Meta Index - 知识库治理入口",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "index",
+      "navigation",
+      "governance"
+    ],
+    "size": 1162
+  },
+  {
+    "path": "meta/kb-protocol.md",
+    "title": "知识库写入与维护协议",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "protocol",
+      "maintenance"
+    ],
+    "size": 2233
+  },
+  {
+    "path": "meta/network-search-protocol.md",
+    "title": "网络搜索与知识入库准入协议",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "protocol",
+      "network-search",
+      "knowledge-intake"
+    ],
+    "size": 4594
+  },
+  {
+    "path": "meta/obsidian-governance.md",
+    "title": "Obsidian Governance - LLMWikiPage 分层治理规则",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "obsidian",
+      "governance",
+      "knowledge-base"
+    ],
+    "size": 3374
+  },
+  {
+    "path": "meta/working-modes.md",
+    "title": "Working Modes 详细定义",
+    "type": "governance",
+    "category": "meta",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "meta",
+      "working-modes",
+      "curator",
+      "maintenance"
+    ],
+    "size": 3626
+  },
+  {
+    "path": "queries/index.md",
+    "title": "Queries — 查询归档索引",
+    "type": "entity",
+    "category": "misc",
+    "confidence": "high",
+    "status": "active",
+    "tags": [
+      "qa",
+      "navigation"
+    ],
+    "size": 1266
+  }
+]

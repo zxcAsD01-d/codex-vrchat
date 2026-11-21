@@ -43,8 +43,7 @@ const CORPUS = path.join(
  * or arithmetic. Naming them is the point: an exemption is a claim that needs a
  * reason, and the dead-exemption check below removes it once nothing uses it.
  *
- * Plugin configuration values are deliberately absent: they live in `index.js` and
- * `cordis.patch.yml`, which this scanner never reads.
+ * Plugin configuration values are deliberately absent: they live in `index.js` and the plugin manifests, outside this scan.
  */
 const NON_CORPUS = [
   { value: "1253", why: "api-table 成员数（由 exposed-types.md 解析得出）" },
