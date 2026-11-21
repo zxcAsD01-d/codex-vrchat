@@ -2,7 +2,8 @@
 import assert from "node:assert/strict";
 import { spawn, spawnSync } from "node:child_process";
 import { createInterface } from "node:readline";
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs";
+import { existsSync, mkdirSync, mkdtempSync, readFileSync } from "node:fs";
+import { rm } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
@@ -108,5 +109,9 @@ const data = await call("vrchat_kb_api", { query: "Transform.position" });
     server.kill();
     await Promise.race([closed, new Promise((resolve) => setTimeout(resolve, 800))]);
   }
-  try { rmSync(fixture, { recursive: true, force: true, maxRetries: 3, retryDelay: 200 }); } catch (error) { console.error("Cleanup: " + error.message); }
+  try {
+    await rm(fixture, { recursive: true, force: true, maxRetries: 8, retryDelay: 150 });
+  } catch (error) {
+    console.error("Could not remove isolated test directory: " + error.message);
+  }
 }
